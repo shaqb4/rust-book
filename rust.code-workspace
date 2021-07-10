@@ -1,0 +1,60 @@
+{
+	"folders": [
+		{
+			"path": "hello_world"
+		},
+		{
+			"path": "hello_cargo"
+		},
+		{
+			"path": "guessing_game"
+		},
+		{
+			"path": "variables"
+		},
+		{
+			"path": "functions"
+		},
+		{
+			"path": "control_flow"
+		},
+		{
+			"path": "loops"
+		},
+		{
+			"path": "ownership"
+		},
+		{
+			"path": "structs"
+		},
+		{
+			"path": "rectangles"
+		},
+		{
+			"path": "enums"
+		},
+		{
+			"path": "restaurant"
+		},
+		{
+			"path": "collections"
+		},
+		{
+			"path": "errors"
+		},
+		{
+			"path": "generics"
+		},
+		{
+			"path": "tests"
+		},
+		{
+			"path": "minigrep"
+		},
+		{
+			"path": "its_and_closures"
+		}
+	],
+	"remoteAuthority": "wsl+Ubuntu",
+	"settings": {}
+}

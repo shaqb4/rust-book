@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../hello_world"
+		},
+		{
+			"path": "../../hello_cargo"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"remoteAuthority": "wsl+Ubuntu",
+	"settings": {}
+}
