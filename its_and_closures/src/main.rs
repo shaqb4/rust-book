@@ -7,4 +7,7 @@ fn main() {
     let simulated_random_number = 5;
 
     its_and_closures::generate_workout(simulated_user_specified_value, simulated_random_number);
+
+    its_and_closures::move_closures();
 }
+
