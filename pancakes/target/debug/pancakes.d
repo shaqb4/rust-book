@@ -1,0 +1,1 @@
+/home/shaqb4/dev/rust/projects/pancakes/target/debug/pancakes: /home/shaqb4/dev/rust/projects/hello_macro/hello_macro_derive/src/lib.rs /home/shaqb4/dev/rust/projects/hello_macro/src/lib.rs /home/shaqb4/dev/rust/projects/pancakes/src/main.rs
